@@ -1,0 +1,15 @@
+.hf/
+.ipynb_checkpoints/
+input/
+output/
+tests/
+backup/
+submission/
+Untitled.ipynb
+benchmark_notes.txt
+test_ocr.py
+test_ocr_sign.py
+test_ocr_upscaled.py
+__pycache__/
+*.pyc
+.git/
