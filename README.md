@@ -44,6 +44,11 @@ Recognized Text
 JSON Output
 ```
 
+
+## OCR Test Result
+
+![OCR test result](/ocr_result.png)
+
 ## Demonstration
 
 ### Example Input
